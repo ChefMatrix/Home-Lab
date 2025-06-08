@@ -43,11 +43,3 @@ Welcome to my homelab documentation. This project showcases how I built, configu
 - Environment variables configured for JWT and SSL
 - Integrated with Nextcloud
 
----
-
-## 🛠️ Key Tools & Commands
-
-### Port & Process Management
-```bash
-sudo lsof -i :80        # Check what is using port 80
-sudo pkill -9 httpd     # Kill Apache if needed
