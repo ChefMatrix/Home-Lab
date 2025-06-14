@@ -39,7 +39,6 @@ Welcome to my homelab documentation. This project showcases how I built, configu
 
 ### 📄 ONLYOFFICE Document Server (Docker)
 - Deployed via Docker
-- Runs on ports `9080` (HTTP) and `9443` (HTTPS)
 - Environment variables configured for JWT and SSL
 - Integrated with Nextcloud
 
