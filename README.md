@@ -22,7 +22,8 @@ Welcome to my homelab documentation. This project showcases how I built, configu
 Here is a rough network diagram which I have created. This is still a WIP, as I am still continuing my learning into CCNA and soon CCNP. The network diagram version will change through out my learning. 
 
 Here is the current version:
-![Network Map V2](Images/Home Network Map V2.drawio.png)
+
+![Network Map V2](Images/Home%20Network%20Map%20V2.drawio.png)
 
 ---
 
