@@ -18,6 +18,13 @@ Welcome to my homelab documentation. This project showcases how I built, configu
     - 12TB HDD + 6TB HDD (bulk storage)
 
 ---
+## 🗺️ Network Map
+Here is a rough network diagram which I have created. This is still a WIP, as I am still continuing my learning into CCNA and soon CCNP. The network diagram version will change through out my learning. 
+
+Here is the current version:
+
+
+---
 
 ## ⚙️ Virtualization Platform
 
