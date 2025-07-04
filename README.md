@@ -23,7 +23,7 @@ Here is a rough network diagram which I have created. This is still a WIP, as I 
 
 Here is the current version:
 
-![Network Map V2](Images/Home%20Network%20Map%20V2%20(1).drawio.png)
+![Network Map V2](Images/Home%20Network%20Map%20V2.drawio%20(1).png)
 
 ---
 
