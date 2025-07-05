@@ -47,6 +47,6 @@ Here is the current version:
 
 ### 📄 ONLYOFFICE Document Server (Docker)
 - Deployed via Docker
-- Environment variables configured for JWT and SSL
+- Environment variables configured for JWT and SSL.
 - Integrated with Nextcloud
 
