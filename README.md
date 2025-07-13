@@ -83,7 +83,3 @@ This HomeLab is more than a hobby — it’s a **real-world simulation environme
 - 📚 End-to-end Documentation Discipline
 
 ---
-
-> _“The best way to learn is to break it, fix it, then automate it.”_
-
----
