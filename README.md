@@ -1,52 +1,89 @@
-# Home-Lab
-This repository serves as a central hub for documenting my home lab setup and ongoing projects.
+# 🏠 HomeLab: Personal Network & Self-Hosting Infrastructure
 
-# 🏠 HomeLab: My Home Network & Server Infrastructure
-
-Welcome to my homelab documentation. This project showcases how I built, configured, and continuously improved my personal home server setup using Proxmox, Nextcloud, Docker, and more. It's designed for learning, experimentation, and practical self-hosting.
+Welcome to my **HomeLab documentation** — a living project that details how I designed, built, and continue to evolve my personal home server and network infrastructure. This lab serves as a playground for learning enterprise technologies, experimenting with self-hosted services, and mastering modern IT practices through real hands-on implementation.
 
 ---
 
-## 🧰 Hardware
+## 🧱 Purpose
 
-- **Old Desktop PC**
-  - CPU: Intel i7
-  - GPU: NVIDIA GTX 1070
-  - RAM: 16GB DDR4
-  - Storage:
-    - 1TB SSD (OS/VMs)
-    - 12TB HDD + 6TB HDD (bulk storage)
+This HomeLab exists to:
+
+- Build practical experience in **virtualization, networking, and containerization**
+- Host my own cloud services (e.g. file sync, DNS, dashboards)
+- Explore **Proxmox, Nextcloud, Docker**, and **Linux networking**
+- Simulate enterprise environments for red and blue team development
+- Document every step as part of my learning and cybersecurity journey
 
 ---
-## 🗺️ Network Map
-Here is a rough network diagram which I have created. This is still a WIP, as I am still continuing my learning into CCNA and soon CCNP. The network diagram version will change through out my learning. 
 
-Here is the current version:
+## 🛠️ Hardware
+
+- **Base Machine:** Repurposed Gaming PC  
+  - **CPU:** Intel Core i7  
+  - **GPU:** NVIDIA GTX 1070  
+  - **RAM:** 16GB DDR4  
+  - **Storage:**  
+    - `1TB SSD` — OS and VMs  
+    - `12TB + 6TB HDD` — Media and bulk storage  
+
+This setup is managed through **Proxmox VE**, with Docker containers and VMs for various services.
+
+---
+
+## 🌐 Current Network Topology
+
+> 📌 *Note: This is a living diagram and will evolve as I progress through CCNA and CCNP certifications.*
 
 ![Network Map V2](Images/Home%20Network%20Map%20V2.drawio%20(2).png)
 
 ---
 
-## ⚙️ Virtualization Platform
+## 🔧 Current Services Running
 
-### 🔧 Proxmox VE
-- Installed via bootable USB
-- Installed on 1TB SSD
-- Configured with static IP
-- Web UI access for VM/container management
+| Service      | Platform   | Purpose                                 |
+|--------------|------------|-----------------------------------------|
+| Proxmox VE   | Bare Metal | Hypervisor & VM Management              |
+| Nextcloud    | Docker     | Private Cloud, File Sync & Share        |
+| Nginx Proxy  | Docker     | Reverse Proxy for self-hosted services  |
+| Pi-hole      | Docker     | Network-wide DNS-level Ad Blocker       |
+| Portainer    | Docker     | Container Management UI                 |
+| Uptime Kuma  | Docker     | Uptime Monitoring for Hosted Services   |
 
 ---
 
-## 📦 Services Deployed
+## 🚀 Future Plans & Vision
 
-### 📁 Nextcloud (VM)
-- Ubuntu Server 20.04 LTS
-- Apache, PHP, MariaDB stack
-- Installed Nextcloud manually
-- SSL enabled with Let's Encrypt
+This lab is just the beginning. Here's what I plan to implement and experiment with in the near future:
 
-### 📄 ONLYOFFICE Document Server (Docker)
-- Deployed via Docker
-- Environment variables configured for JWT and SSL.
-- Integrated with Nextcloud
+- 🌩️ **Full CI/CD Pipeline**
+  - Jenkins, GitHub Actions, or Drone CI for automation
+- 🔐 **Active Directory or FreeIPA**
+  - Identity management and user/group access simulation
+- 🛡️ **Security Monitoring**
+  - ELK Stack or Wazuh for log aggregation, detection, and alerting
+- 📊 **Self-Hosted Dashboards**
+  - Grafana + Prometheus for visualizing resource usage and uptime
+- 🛰️ **DMZ & VLAN Segmentation**
+  - To simulate real-world segmented network environments
+- ☁️ **Hybrid Cloud Integration**
+  - AWS/GCP lab hybrid for real-world red/blue team testing
+- 🧪 **Offensive Lab Range**
+  - Isolated network for exploit testing, malware analysis, and pentest tooling
 
+---
+
+## 🧠 Why It Matters
+
+This HomeLab is more than a hobby — it’s a **real-world simulation environment**. It trains me in:
+
+- 🖧 Advanced Networking & Routing
+- 📦 Docker & Infrastructure as Code
+- ☁️ Cloud-Edge Hybrid Deployments
+- 🔐 Blue & Red Team Experimentation
+- 📚 End-to-end Documentation Discipline
+
+---
+
+> _“The best way to learn is to break it, fix it, then automate it.”_
+
+---
