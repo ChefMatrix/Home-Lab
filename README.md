@@ -30,7 +30,7 @@ This setup is managed through **Proxmox VE**, with Docker containers and VMs for
 
 ---
 
-## 🌐 Current Network Topology
+## 🌐 Future Network Topology
 
 > 📌 *Note: This is a living diagram and will evolve as I progress through CCNA and CCNP certifications.*
 
