@@ -18,15 +18,17 @@ This HomeLab exists to:
 
 ## 🛠️ Hardware
 
-- **Base Machine:** Repurposed Gaming PC  
-  - **CPU:** Intel Core i7  
-  - **GPU:** NVIDIA GTX 1070  
-  - **RAM:** 16GB DDR4  
-  - **Storage:**  
-    - `1TB SSD` — OS and VMs  
-    - `12TB + 6TB HDD` — Media and bulk storage  
+| Component | Specs                |
+|----------|----------------------|
+| CPU      | Intel Core i7        |
+| GPU      | NVIDIA GTX 1070      |
+| RAM      | 16GB DDR4            |
+| Storage  | 1TB SSD (OS/VMs)     |
+| Storage  | 12TB + 6TB HDD (Bulk) |
 
-This setup is managed through **Proxmox VE**, with Docker containers and VMs for various services.
+> Hypervisor: **Proxmox VE**  
+> Containers: **Docker & Portainer**  
+> Network Control: VLANs, static routes, and future MikroTik ACLs  
 
 ---
 
