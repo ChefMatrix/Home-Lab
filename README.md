@@ -36,7 +36,7 @@ This HomeLab exists to:
 
 > 📌 *Note: This is a living diagram and will evolve as I progress through CCNA and CCNP certifications.*
 
-![Network Map V2](Images/Home%20Network%20Map%20V2.drawio%20(2).png)
+![Network Map V2](Images/Home%20Network%20Map%20V2.drawio.png)
 
 ---
 
