@@ -34,7 +34,7 @@ Once the MikroTik arrives, I’ll begin segmenting traffic into **VLANs** (Home,
 
 ## 🧠 Personal Thoughts & Motivation
 
-What excites me most about networking is the fact that it’s what allows us, globally, to communicate. Right now, as I write this journal, the only reason you’re able to read it is because of the very technology I’m learning to master.
+What excites me most about networking is the fact that it’s what allows us, globally, to communicate. Right now, as I write this journal, the only reason you’re able to read it is because of the very technology I’m learning.
 
 It's kind of mind-blowing to think about how **petabytes of data** are flying around the world at near-instant speeds, data from one machine, traveling through routers, switches, cables, Wi-Fi signals, reaching another machine, potentially thousands of miles away, without a second thought.
 
