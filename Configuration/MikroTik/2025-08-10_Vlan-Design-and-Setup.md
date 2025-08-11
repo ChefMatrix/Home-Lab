@@ -19,6 +19,10 @@ This document outlines the VLAN design and configuration steps for the MikroTik 
 
 ---
 
+TODO: Add Diagram of the segmentation of Vlans and IP assignment
+
+---
+
 ## 🖥 Topology (Ports)
 
 - **RB5009 ether1 → ONT** (WAN: `wan-vlan10`, DHCP client)
