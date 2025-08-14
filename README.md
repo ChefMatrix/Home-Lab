@@ -31,8 +31,10 @@ This HomeLab exists to:
 > Network Control: VLANs, static routes, and future MikroTik ACLs  
 
 ---
+## Current Network Topology:
+![Network Map V2.1](Images/HomeLab_Diagram_v2.1.png)
 
-## 🌐 Future Network Topology
+## 🌐 Future Network Topology:
 
 > 📌 *Note: This is a living diagram and will evolve as I progress through CCNA and CCNP certifications.*
 
