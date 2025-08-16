@@ -1,8 +1,4 @@
 # Need to do:
-## 1. Current-state diagram (not just “future”)
-Add a draw.io/PNG of what’s running today: ONT → RB5009 (VLAN 10 WAN) → Cisco (trunk) → TP‑Link AP (trunk or access) + key wired clients. Put the editable .drawio in /Images/ and embed the PNG in README. Right now README references a “Future Network Topology” image—capture the actual state too. 
-GitHub
-
 ## 2. VLAN plan table (IDs, subnets, gateway, DHCP ranges, purpose)
 Create `/Documentation/VLANs.md` with a table for each planned VLAN (Main, Guest, IoT, Mgmt, Lab). Include the IP scheme and which SSIDs/ports map to each VLAN. Link it from README. Your repo already has a Documentation/ folder—use it.
 
