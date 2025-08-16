@@ -1,7 +1,4 @@
 # Need to do:
-## 2. VLAN plan table (IDs, subnets, gateway, DHCP ranges, purpose)
-Create `/Documentation/VLANs.md` with a table for each planned VLAN (Main, Guest, IoT, Mgmt, Lab). Include the IP scheme and which SSIDs/ports map to each VLAN. Link it from README. Your repo already has a Documentation/ folder—use it.
-
 ## 3. Port mapping sheets
 Add `/Documentation/Ports.md` mapping:
 - RB5009: ether1=WAN (vlan10 ISP), ether2=trunk to Cisco (allowed VLANs), ether3+=access (if any)
