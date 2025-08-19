@@ -1,7 +1,4 @@
 # Need to do:
-## 4. Config snippets (Winbox/CLI) with “How to reproduce”
-Create `/Configuration/mikrotik.md` and `/Configuration/cisco.md` with copy‑pastable snippets (DHCP client on wan-vlan10, bridge VLAN filtering, VLAN interfaces, pools, NAT, firewall; on Cisco: trunk + access examples). You already have a Configuration/ dir—perfect place for it. 
-
 ## 5. Ops notes: issues + fixes you hit
 Turn your troubleshooting from this setup into `/Networking Journal/2025‑08‑RB5009‑AP‑VLAN‑notes.md`:
 - TP‑Link AP mode + “Share Network”
