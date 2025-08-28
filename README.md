@@ -32,13 +32,7 @@ This HomeLab exists to:
 
 ---
 ## Current Network Topology:
-![Network Map V2.1](Images/HomeLab_Diagram_v2.1.png)
-
-## 🌐 Future Network Topology:
-
-> 📌 *Note: This is a living diagram and will evolve as I progress through CCNA and CCNP certifications.*
-
-![Network Map V2](Images/Home%20Network%20Map%20V2.drawio.png)
+![Network Map V2.1](Images/HomeLab_Diagram_v3.3.png)
 
 ---
 
