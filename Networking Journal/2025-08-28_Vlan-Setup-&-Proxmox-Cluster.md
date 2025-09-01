@@ -5,7 +5,7 @@ After configuring the VLANs in my network and establishing five distinct VLANs, 
 - **Main VLAN** for the trusted devices and network.
 - **IoT VLAN** for all my smart devices.
 - **Guest VLAN** for visitors and non-critical devices.
-- **Test VLAN** for testing and pentesting environments.
+- **Lab VLAN** for testing and pentesting environments.
 - **Management VLAN** for the management of routers, switches, and APs.
 
 ### 🎯 Challenges & Learning
