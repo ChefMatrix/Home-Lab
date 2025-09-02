@@ -45,7 +45,6 @@ This HomeLab exists to:
 | Nginx Proxy  | Docker     | Reverse Proxy for self-hosted services  |
 | Pi-hole      | Docker     | Network-wide DNS-level Ad Blocker       |
 | Portainer    | Docker     | Container Management UI                 |
-| Uptime Kuma  | Docker     | Uptime Monitoring for Hosted Services   |
 
 ---
 
